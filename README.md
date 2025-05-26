@@ -4,7 +4,7 @@ A React implementation of [2048](https://github.com/gabrielecirulli/2048) built 
 
 ### Demo
 
-Try online demo [here](https://github.com/Shaimuratovaalina/browser-game-2048)
+Try online demo [here](https://Shaimuratovaalina.github.io/browser-game-2048/)
 
 ### Getting Started
 
@@ -17,3 +17,4 @@ $ npm start
 ### Liscense
 
 MIT
+
