@@ -1,18 +1,20 @@
-## [React-2048](https://github.com/Shaimuratovaalina/browser-game-2048)
+# Браузерная игра 2048
+-Это реализация популярной игры **2048** на базе **React + TypeScript + Vite**.
+-Игра поддерживает управление стрелками клавиатуры и отслеживание максимального счёта.
 
-A React implementation of [2048](https://github.com/gabrielecirulli/2048) built with [Typescript](https://www.typescriptlang.org/) and  [styled-components](https://styled-components.com)
+## Возможности
 
-### Demo
+- Удобное игровое поле 4x4 и больше  
+- Поддержка клавиш со стрелками  
+- Сохранение рекорда в `localStorage`  
+- Адаптивный дизайн  
 
-Try online demo [here](https://Shaimuratovaalina.github.io/browser-game-2048/)
+## Как запустить локально
+1. Клонируй репозиторий:
+   ```bash
+   git clone https://github.com/Shaimuratovaalina/browser-game-2048.git 
+   cd browser-game-2048
 
-### Getting Started
 
-```shell
-$ npm install
-$ npm start
-# open http://localhost:3001
-```
 ### Liscense
-
 MIT
