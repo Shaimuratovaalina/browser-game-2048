@@ -3,7 +3,7 @@
 -Игра поддерживает управление стрелками клавиатуры и отслеживание максимального счёта.
 
 Скиншот с игры : ![image](https://github.com/user-attachments/assets/8d97041b-89c7-41e9-ab1e-179a6fb7328c)
-
+Сслыка : https://shaimuratovaalina.github.io/browser-game-2048/
 ## Возможности
 
 - Удобное игровое поле 4x4 и больше  
